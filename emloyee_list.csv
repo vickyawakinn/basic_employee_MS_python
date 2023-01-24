@@ -1,0 +1,15 @@
+emp_id,name,designation,joining date,salary,project working,id_passwd
+20001,Nobita,Admin,7-23-2021,50000,None,shizuka@12
+20002,Shinchan,Manager,7-23-2021,45000,Branding,buri@99
+20003,Hagemaru,Finances_Manager,4-23-2021,40000,None,a-haalo-100
+20004,Riyotsu,Security_Incharge,7-23-2021,10000,None,kochikaame@7
+20005,Gian,Salesman,7-25-2021,12000,Kidnapping,rockstar_gian
+20006,Suneo,Salesman,7-25-2021,12000,smuggling,sales@suneo
+20007,Aamara,Deliveryman,7-28-2021,10000,delivery,koga@ninja
+20008,Shizuka,Programmer,7-30-2021,30000,Website,shizuka@99
+20009,Kiteretsu,Developer,7-30-2021,30000,DataBase,saisama@123
+20010,Butagorila,Salesman,8-5-2021,12000,Threatening,Vege@boota
+20011,Tongari,Salesman,8-5-2021,12000,Call-attending,Tongari@call
+20012,Korosuke,Delivery Man,7-29-2021,12000,Assistance,koro@11
+20013,Kenichi,Software Engineer,8-3-2021,30000,Databases,yumiko@88
+20014,MiChan,Secretary,8-3-2021,30000,None,Mi-didi
